@@ -1,0 +1,18 @@
+package:
+  name: metapop
+  version: 2.4
+
+source:
+  git_url: https://gitlab.com/elcortegano/metapop2.git
+  git_tag: v2.4
+
+requirements:
+  build:
+  host:
+  run:
+
+about:
+  home: https://gitlab.com/elcortegano/metapop2
+  license: GPL-3
+  license_family: GPL
+  summary: Analysis of gene and allelic diversity in subdivided populations, as well as a tool for management in conservation programs.
